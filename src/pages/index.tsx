@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Inicio | ig.news</title>
+        <title>Inicio | react.news</title>
       </Head>
 
       <h1>Hello word</h1>
